@@ -3,7 +3,7 @@
   display: none;
 }
 
-#wall .tag-1 > #tag2 {
+#wall > #tag2 {
   display: none;
 }
 
